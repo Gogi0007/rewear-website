@@ -1,0 +1,31 @@
+
+#logo {
+    width: 15%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#logo-name {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 16px;
+}
+#top {
+    text-align: center;
+    margin-top: -110px;
+}
+#navigation a {
+    color: grey;
+    padding: 8px;
+}
+#navigation a:hover {
+    color: rgb(0, 70, 0);
+}
+#image img {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#main {
+    max-width: 600px;
+    margin: auto;
+}
